@@ -1,0 +1,1947 @@
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(377538  -- ile
+, 2755  -- 51 Bar
+,  9
+, 'Noya Weiss'
+, 'Same genre and decade: 1980s'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(377538  -- ile
+, 356663  -- Volver
+,  9
+, 'Noya Weiss'
+, 'Same genre and decade: 1980s'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(377538  -- ile
+, 60016  -- Chattahoochee
+,  9
+, 'Noya Weiss'
+, 'Same genre and decade: 1980s'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(377538  -- ile
+, 12744  -- Always
+,  9
+, 'Noya Weiss'
+, 'Same genre and decade: 1980s'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(377538  -- ile
+, 4722  -- Abdullah
+,  9
+, 'Noya Weiss'
+, 'Same genre and decade: 1980s'
+, NULL
+);
+
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(4722  -- Abdullah
+, 2755  -- 51 Bar
+,  9
+, 'Noya Weiss'
+, 'Same genre and decade: 1980s'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(4722  -- Abdullah
+, 356663  -- Volver
+,  9
+, 'Noya Weiss'
+, 'Same genre and decade: 1980s'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(4722  -- Abdullah
+, 60016  -- Chattahoochee
+,  9
+, 'Noya Weiss'
+, 'Same genre and decade: 1980s'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(4722  -- Abdullah
+, 12744  -- Always
+,  9
+, 'Noya Weiss'
+, 'Same genre and decade: 1980s'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(4722  -- Abdullah
+, 377538  -- ile
+,  9
+, 'Noya Weiss'
+, 'Same genre and decade: 1980s'
+, NULL
+); 
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(2755  -- 51 Bar
+, 356663  -- Volver
+,  9
+, 'Noya Weiss'
+, 'Same genre and decade: 1980s'
+, NULL
+);
+
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(2755  -- 51 Bar
+, 4722  -- Abdullah
+,  9
+, 'Noya Weiss'
+, 'Same genre and decade: 1980s'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(2755  -- 51 Bar
+, 60016  -- Chattahoochee
+,  9
+, 'Noya Weiss'
+, 'Same genre and decade: 1980s'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(2755  -- 51 Bar
+, 12744  -- Always
+,  9
+, 'Noya Weiss'
+, 'Same genre and decade: 1980s'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(2755  -- 51 Bar
+, 377538 -- ile,
+,  9
+, 'Noya Weiss'
+, 'Same genre and decade: 1980s'
+, NULL
+);
+
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(356663  -- Volver
+, 60016  -- Chattahoochee
+,  9
+, 'Noya Weiss'
+, 'Same genre and decade: 1980s'
+, NULL
+);
+
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(356663  -- Volver
+, 4722  -- Abdullah
+,  9
+, 'Noya Weiss'
+, 'Same genre and decade: 1980s'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(356663  -- Volver
+, 12744  -- Always
+,  9
+, 'Noya Weiss'
+, 'Same genre and decade: 1980s'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(356663  -- Volver
+, 377538  -- ile
+,  9
+, 'Noya Weiss'
+, 'Same genre and decade: 1980s'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(356663  -- Volver
+, 2755  -- 51 Bar
+,  9
+, 'Noya Weiss'
+, 'Same genre and decade: 1980s'
+, NULL
+);
+
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(60016  -- Chattahoochee
+, 12744  -- Always
+,  9
+, 'Noya Weiss'
+, 'Same genre and decade: 1980s'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(60016  -- Chattahoochee
+, 4722  -- Abdullah
+,  9
+, 'Noya Weiss'
+, 'Same genre and decade: 1980s'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(60016  -- Chattahoochee
+, 356663  -- Volver
+,  9
+, 'Noya Weiss'
+, 'Same genre and decade: 1980s'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(60016  -- Chattahoochee
+, 2755  -- 51 Bar
+,  9
+, 'Noya Weiss'
+, 'Same genre and decade: 1980s'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(60016  -- Chattahoochee
+, 377538  -- ile
+,  9
+, 'Noya Weiss'
+, 'Same genre and decade: 1980s'
+, NULL
+);
+
+
+
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(90110  -- Don Juan
+, 119502  -- Free of Eden
+,  9
+, 'Noya Weiss'
+, 'Same genre and decade: 1990s'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(90110  -- Don Juan
+, 313141  -- Stanley & Iris
+,  9
+, 'Noya Weiss'
+, 'Same genre and decade: 1990s'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(90110  -- Don Juan
+, 133506  -- Great Canadian Ghost Stories
+,  9
+, 'Noya Weiss'
+, 'Same genre and decade: 1990s'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(90110  -- Don Juan
+, 30662  -- Basil
+, 9
+, 'Noya Weiss'
+, 'Same genre and decade: 1990s'
+, NULL
+);
+
+
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(90110  -- Don Juan
+, 30243  -- Barocco
+,9
+, 'Noya Weiss'
+, 'Same genre and decade: 1990s'
+, NULL
+);
+
+
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(30243  -- Barocco
+,90110  -- Don Juan
+,9
+, 'Noya Weiss'
+, 'Same genre and decade: 1990s'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(30243  -- Barocco
+,119502  -- Free of Eden
+,9
+, 'Noya Weiss'
+, 'Same genre and decade: 1990s'
+, NULL
+);
+
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(30243  -- Barocco
+,119502  -- Free of Eden
+, 9 
+, 'Noya Weiss'
+, 'Same genre and decade: 1990s'
+, NULL
+);
+
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(30243  -- Barocco
+,119502  -- Free of Eden
+, 9
+, 'Noya Weiss'
+, 'Same genre and decade: 1990s'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(30243  -- Barocco
+,313141  -- Stanley & Iris
+, 'Noya Weiss'
+, 'Same genre and decade: 1990s'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(30243  -- Barocco
+,133506  -- Great Canadian Ghost Stories
+, 'Noya Weiss'
+, 'Same genre and decade: 1990s'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(30243  -- Barocco
+,30662  -- Basil
+, 'Noya Weiss'
+, 'Same genre and decade: 1990s'
+, NULL
+);
+
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(119502  -- Free of Eden
+, 313141  -- Stanley & Iris
+, 9
+, 'Noya Weiss'
+, 'Same genre and decade: 1990s'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(119502  -- Free of Eden
+, 133506  -- Great Canadian Ghost Stories
+,  9
+, 'Noya Weiss'
+, 'Same genre and decade: 1990s'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(313141  -- Stanley & Iris
+, 133506  -- Great Canadian Ghost Stories
+,  9
+, 'Noya Weiss'
+, 'Same genre and decade: 1990s'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(231548  -- Nico
+, 3109  -- 8 Track
+,  9
+, 'Noya Weiss'
+, 'Same genre and decade: 2000s'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(231548  -- Nico
+, 154436  -- I Love You
+,  9
+, 'Noya Weiss'
+, 'Same genre and decade: 2000s'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(231548  -- Nico
+, 7382  -- Afdaling, De
+,  9
+, 'Noya Weiss'
+, 'Same genre and decade: 2000s'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(231548  -- Nico
+, 32156  -- Beauty
+,  9
+, 'Noya Weiss'
+, 'Same genre and decade: 2000s'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(32156  -- Beauty
+, 231548  -- Nico
+,  9
+, 'Noya Weiss'
+, 'Same genre and decade: 2000s'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(32156  -- Beauty
+, 7382  -- Afdaling
+,  9
+, 'Noya Weiss'
+, 'Same genre and decade: 2000s'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(32156  -- Beauty
+, 154436  -- I Love You
+, 9 
+, 'Noya Weiss'
+, 'Same genre and decade: 2000s'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(32156  -- Beauty
+, 3109  -- 8 Track
+, 9
+, 'Noya Weiss'
+, 'Same genre and decade: 2000s'
+, NULL
+);
+
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(3109  -- 8 Track
+, 154436  -- I Love You
+,  9
+, 'Noya Weiss'
+, 'Same genre and decade: 2000s'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(3109  -- 8 Track
+, 7382  -- Afdaling, De
+,  9
+, 'Noya Weiss'
+, 'Same genre and decade: 2000s'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(3109  -- 8 Track
+, 32156  -- Beauty
+,  9
+, 'Noya Weiss'
+, 'Same genre and decade: 2000s'
+, NULL
+);
+
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(3109  -- 8 Track
+, 7382  -- Afdaling, De
+,  9
+, 'Noya Weiss'
+, 'Same genre and decade: 2000s'
+, NULL
+);
+
+
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(3109  -- 8 Track
+, 154436  -- I Love You
+,  9
+, 'Noya Weiss'
+, 'Same genre and decade: 2000s'
+, NULL
+);
+
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(3109  -- 8 Track
+, 231548  -- Nico
+,  9
+, 'Noya Weiss'
+, 'Same genre and decade: 2000s'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(154436  -- I Love You
+, 7382  -- Afdaling, De
+,  9
+, 'Noya Weiss'
+, 'Same genre and decade: 2000s'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(154436  -- I Love You
+, 32156  -- Beauty
+,  9
+, 'Noya Weiss'
+, 'Same genre and decade: 2000s'
+, NULL
+);
+
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(9131  -- Airport 1975
+, 1366  -- 1900
+,  9
+, 'Noya Weiss'
+, 'Same genre and decade: 1970s'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(9131  -- Airport 1975
+, 155207  -- Ice
+,  9
+, 'Noya Weiss'
+, 'Same genre and decade: 1970s'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(9131  -- Airport 1975
+, 151844 -- Hranjenik
+,  9
+, 'Noya Weiss'
+, 'Same genre and decade: 1970s'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(9131  -- Airport 1975
+, 2163  -- 3 Women
+,  9
+, 'Noya Weiss'
+, 'Same genre and decade: 1970s'
+, NULL
+);
+
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(9131  -- Airport 1975
+, 2122033  -- Furtivos 
+,  9
+, 'Noya Weiss'
+, 'Same genre and decade: 1970s'
+, NULL
+);
+
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(2163 --  3 Women
+, 1366  -- 1900
+,  9
+, 'Noya Weiss'
+, 'Same genre and decade: 1970s'
+, NULL
+);
+
+
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(2163 --  3 Women
+, 155207 -- ice
+,  9
+, 'Noya Weiss'
+, 'Same genre and decade: 1970s'
+, NULL
+);
+
+
+
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(2163 --  3 Women
+, 151844 --  Hranjenik
+,  9
+, 'Noya Weiss'
+, 'Same genre and decade: 1970s'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(2163 --  3 Women
+, 122033 --  Furtivos
+,  9
+, 'Noya Weiss'
+, 'Same genre and decade: 1970s'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(1366  -- 1900
+, 9131  -- Airport 1975 
+,  9
+, 'Noya Weiss'
+, 'Same genre and decade: 1970s'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(1366  -- 1900
+, 155207 --  Ice
+,  9
+, 'Noya Weiss'
+, 'Same genre and decade: 1970s'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(1366  -- 1900
+, 151844 --  Hranjenik 
+,  9
+, 'Noya Weiss'
+, 'Same genre and decade: 1970s'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(1366  -- 1900
+, 122033  --  Furtivos 
+,  9
+, 'Noya Weiss'
+, 'Same genre and decade: 1970s'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(1366  -- 1900
+, 9131  -- Airport 1975 
+,  9
+, 'Noya Weiss'
+, 'Same genre and decade: 1970s'
+, NULL
+);
+
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(155207 --  Ice
+,2163 -- 3 Women
+,  9
+, 'Noya Weiss'
+, 'Same genre and decade: 1970s'
+, NULL
+);
+
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(155207 --  Ice
+, 1122033  --  Furtivos 
+,  9
+, 'Noya Weiss'
+, 'Same genre and decade: 1970s'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(155207 --  Ice
+, 151844 --  Hranjenik 
+,  9
+, 'Noya Weiss'
+, 'Same genre and decade: 1970s'
+, NULL
+);
+
+
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(155207 --  Ice
+, 9131  -- Airport 1975 
+,  9
+, 'Noya Weiss'
+, 'Same genre and decade: 1970s'
+, NULL
+);
+
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(155207 --  Ice
+, 1366  -- 1900
+,  9
+, 'Noya Weiss'
+, 'Same genre and decade: 1970s'
+, NULL
+);
+
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(151844 --  Hranjenik 
+,2163 -- 3 Women
+,  9
+, 'Noya Weiss'
+, 'Same genre and decade: 1970s'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(151844 --  Hranjenik 
+, 9131  -- Airport 1975 
+,  9
+, 'Noya Weiss'
+, 'Same genre and decade: 1970s'
+, NULL
+);
+
+
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(151844 --  Hranjenik 
+,122033  --  Furtivos 
+,  9
+, 'Noya Weiss'
+, 'Same genre and decade: 1970s'
+, NULL
+);
+
+
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(151844 --  Hranjenik 
+,1366  -- 1900
+,  9
+, 'Noya Weiss'
+, 'Same genre and decade: 1970s'
+, NULL
+);
+
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(151844 --  Hranjenik 
+,155207 --  Ice
+,  9
+, 'Noya Weiss'
+, 'Same genre and decade: 1970s'
+, NULL
+);
+
+
+
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(122033  --  Furtivos 
+,2163 -- 3 Women
+,  9
+, 'Noya Weiss'
+, 'Same genre and decade: 1970s'
+, NULL
+);
+
+
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(122033  --  Furtivos 
+,151844 --  Hranjenik 
+,  9
+, 'Noya Weiss'
+, 'Same genre and decade: 1970s'
+, NULL
+);
+
+
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(122033  --  Furtivos
+,9131  -- Airport 1975
+, 9 
+, 'Noya Weiss'
+, 'Same genre and decade: 1970s'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(122033  --  Furtivos
+,1366  -- 1900
+, 9
+, 'Noya Weiss'
+, 'Same genre and decade: 1970s'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(122033  --  Furtivos
+,155207 --  Ice
+,  9
+, 'Noya Weiss'
+, 'Same genre and decade: 1970s'
+, NULL
+);
+
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(79528  -- David and Lisa
+, 83103 -- Derbeder
+,  9
+, 'Noya Weiss'
+, 'Same genre and decade: 1960s'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(79528  -- David and Lisa
+,11360  -- All Night Long
+,  9
+, 'Noya Weiss'
+, 'Same genre and decade: 1960s'
+, NULL
+);
+
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(79528  -- David and Lisa
+,18689  -- Aoi yaju
+,  9
+, 'Noya Weiss'
+, 'Same genre and decade: 1960s'
+, NULL
+);
+
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(79528  -- David and Lisa
+,126257  --  Germinal
+,  9
+, 'Noya Weiss'
+, 'Same genre and decade: 1960s'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(79528  -- David and Lisa
+,126991  -- Gharana  
+,  9
+, 'Noya Weiss'
+, 'Same genre and decade: 1960s'
+, NULL
+);
+
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(83103 -- Derbeder
+,79528  -- David and Lisa
+, 9
+, 'Noya Weiss'
+, 'Same genre and decade: 1960s'
+, NULL
+);
+
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(83103 -- Derbeder
+,11360  -- All Night Long
+, 9
+, 'Noya Weiss'
+, 'Same genre and decade: 1960s'
+, NULL
+);
+
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(83103 -- Derbeder
+,18689  -- Aoi yaju
+, 9
+, 'Noya Weiss'
+, 'Same genre and decade: 1960s'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(83103 -- Derbeder
+,126257  --  Germinal
+, 9
+, 'Noya Weiss'
+, 'Same genre and decade: 1960s'
+, NULL
+);
+
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(83103 -- Derbeder
+,126991  -- Gharana  
+, 9
+, 'Noya Weiss'
+, 'Same genre and decade: 1960s'
+, NULL
+);
+
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(11360  -- All Night Long
+,18689  -- Aoi yaju
+, 9
+, 'Noya Weiss'
+, 'Same genre and decade: 1960s'
+, NULL
+);
+
+
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(11360  -- All Night Long
+, 126257  --  Germinal
+, 9
+, 'Noya Weiss'
+, 'Same genre and decade: 1960s'
+, NULL
+);
+
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(11360  -- All Night Long
+, 126991  -- Gharana  
+, 9
+, 'Noya Weiss'
+, 'Same genre and decade: 1960s'
+, NULL
+);
+
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(11360  -- All Night Long
+, 83103 -- Derbeder
+, 9
+, 'Noya Weiss'
+, 'Same genre and decade: 1960s'
+, NULL
+);
+
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(11360  -- All Night Long
+, 79528  -- David and Lisa
+, 9
+, 'Noya Weiss'
+, 'Same genre and decade: 1960s'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(18689  -- Aoi yaju
+,126257  --  Germinal
+, 9
+, 'Noya Weiss'
+, 'Same genre and decade: 1960s'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(18689  -- Aoi yaju
+,126991  -- Gharana  
+, 9
+, 'Noya Weiss'
+, 'Same genre and decade: 1960s'
+, NULL
+);
+
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(18689  -- Aoi yaju
+,79528  -- David and Lisa 
+, 9
+, 'Noya Weiss'
+, 'Same genre and decade: 1960s'
+, NULL
+);
+
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(18689  -- Aoi yaju
+,83103 -- Derbeder
+, 9
+, 'Noya Weiss'
+, 'Same genre and decade: 1960s'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(18689  -- Aoi yaju
+,11360  -- All Night Long
+, 9
+, 'Noya Weiss'
+, 'Same genre and decade: 1960s'
+, NULL
+);
+
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(126257  --  Germinal
+,126991  -- Gharana 
+, 9
+, 'Noya Weiss'
+, 'Same genre and decade: 1960s'
+, NULL
+);
+
+INSERT INTO.movies_recommendations VALUES 
+(126257  --  Germinal
+,79528  -- David and Lisa
+, 9
+, 'Noya Weiss'
+, 'Same genre and decade: 1960s'
+, NULL
+);
+
+
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(126257  --  Germinal
+,83103 -- Derbeder
+, 9
+, 'Noya Weiss'
+, 'Same genre and decade: 1960s'
+, NULL
+);
+
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(126257  --  Germinal
+,1360  -- All Night Long
+, 9
+, 'Noya Weiss'
+, 'Same genre and decade: 1960s'
+, NULL
+);
+
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(9131  -- Airport 1975
+, 32156  -- Beauty
+,  5
+, 'Noya Weiss'
+, 'Same genre but different decades'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(79528  -- David and Lisa
+, 2755  -- 51 Bar
+,  5
+, 'Noya Weiss'
+, 'Same genre but different decades'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(126257  -- Germinal
+, 313141  -- Stanley & Iris
+,  5
+, 'Noya Weiss'
+, 'Same genre but different decades'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(83103  -- Derbeder
+, 30662  -- Basil
+,  5
+, 'Noya Weiss'
+, 'Same genre but different decades'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(126257  -- Germinal
+, 122033  -- Furtivos
+,  5
+, 'Noya Weiss'
+, 'Same genre but different decades'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(122033  -- Furtivos
+, 30662  -- Basil
+,  5
+, 'Noya Weiss'
+, 'Same genre but different decades'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(83103  -- Derbeder
+, 154436  -- I Love You
+,  5
+, 'Noya Weiss'
+, 'Same genre but different decades'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(1366  -- 1900
+, 356663  -- Volver
+,  5
+, 'Noya Weiss'
+, 'Same genre but different decades'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(83103  -- Derbeder
+, 122033  -- Furtivos
+,  5
+, 'Noya Weiss'
+, 'Same genre but different decades'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(151844  -- Hranjenik
+, 4722  -- Abdullah
+,  5
+, 'Noya Weiss'
+, 'Same genre but different decades'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(30662  -- Basil
+, 3109  -- 8 Track
+,  5
+, 'Noya Weiss'
+, 'Same genre but different decades'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(79528  -- David and Lisa
+, 151844  -- Hranjenik
+,  5
+, 'Noya Weiss'
+, 'Same genre but different decades'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(12744  -- Always
+, 154436  -- I Love You
+,  5
+, 'Noya Weiss'
+, 'Same genre but different decades'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(122033  -- Furtivos
+, 32156  -- Beauty
+,  5
+, 'Noya Weiss'
+, 'Same genre but different decades'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(126991  -- Gharana
+, 122033  -- Furtivos
+,  5
+, 'Noya Weiss'
+, 'Same genre but different decades'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(9131  -- Airport 1975
+, 3109  -- 8 Track
+,  5
+, 'Noya Weiss'
+, 'Same genre but different decades'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(2163  -- 3 Women
+, 313141  -- Stanley & Iris
+,  5
+, 'Noya Weiss'
+, 'Same genre but different decades'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(90110  -- Don Juan
+, 154436  -- I Love You
+,  5
+, 'Noya Weiss'
+, 'Same genre but different decades'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(9131  -- Airport 1975
+, 154436  -- I Love You
+,  5
+, 'Noya Weiss'
+, 'Same genre but different decades'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(2755  -- 51 Bar
+, 3109  -- 8 Track
+,  5
+, 'Noya Weiss'
+, 'Same genre but different decades'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(79528  -- David and Lisa
+, 3109  -- 8 Track
+,  5
+, 'Noya Weiss'
+, 'Same genre but different decades'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(356663  -- Volver
+, 7382  -- Afdaling, De
+,  5
+, 'Noya Weiss'
+, 'Same genre but different decades'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(4722  -- Abdullah
+, 313141  -- Stanley & Iris
+,  5
+, 'Noya Weiss'
+, 'Same genre but different decades'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(18689  -- Aoi yaju
+, 30662  -- Basil
+,  5
+, 'Noya Weiss'
+, 'Same genre but different decades'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(2755  -- 51 Bar
+, 90110  -- Don Juan
+,  5
+, 'Noya Weiss'
+, 'Same genre but different decades'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(377538  -- ile
+, 30243  -- Barocco
+,  5
+, 'Noya Weiss'
+, 'Same genre but different decades'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(126257  -- Germinal
+, 377538  -- ile
+,  5
+, 'Noya Weiss'
+, 'Same genre but different decades'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(12744  -- Always
+, 231548  -- Nico
+,  5
+, 'Noya Weiss'
+, 'Same genre but different decades'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(126991  -- Gharana
+, 7382  -- Afdaling, De
+,  5
+, 'Noya Weiss'
+, 'Same genre but different decades'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(377538  -- ile
+, 90110  -- Don Juan
+,  5
+, 'Noya Weiss'
+, 'Same genre but different decades'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(2163  -- 3 Women
+, 3109  -- 8 Track
+,  5
+, 'Noya Weiss'
+, 'Same genre but different decades'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(83103  -- Derbeder
+, 2163  -- 3 Women
+,  5
+, 'Noya Weiss'
+, 'Same genre but different decades'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(83103  -- Derbeder
+, 155207  -- Ice
+,  5
+, 'Noya Weiss'
+, 'Same genre but different decades'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(2163  -- 3 Women
+, 7382  -- Afdaling, De
+,  5
+, 'Noya Weiss'
+, 'Same genre but different decades'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(151844  -- Hranjenik
+, 377538  -- ile
+,  5
+, 'Noya Weiss'
+, 'Same genre but different decades'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(11360  -- All Night Long
+, 155207  -- Ice
+,  5
+, 'Noya Weiss'
+, 'Same genre but different decades'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(126257  -- Germinal
+, 155207  -- Ice
+,  5
+, 'Noya Weiss'
+, 'Same genre but different decades'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(151844  -- Hranjenik
+, 356663  -- Volver
+,  5
+, 'Noya Weiss'
+, 'Same genre but different decades'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(79528  -- David and Lisa
+, 122033  -- Furtivos
+,  5
+, 'Noya Weiss'
+, 'Same genre but different decades'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(313141  -- Stanley & Iris
+, 7382  -- Afdaling, De
+,  5
+, 'Noya Weiss'
+, 'Same genre but different decades'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(2755  -- 51 Bar
+, 7382  -- Afdaling, De
+,  5
+, 'Noya Weiss'
+, 'Same genre but different decades'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(133506  -- Great Canadian Ghost Stories
+, 3109  -- 8 Track
+,  5
+, 'Noya Weiss'
+, 'Same genre but different decades'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(126991  -- Gharana
+, 313141  -- Stanley & Iris
+,  5
+, 'Noya Weiss'
+, 'Same genre but different decades'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(126991  -- Gharana
+, 30243  -- Barocco
+,  5
+, 'Noya Weiss'
+, 'Same genre but different decades'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(79528  -- David and Lisa
+, 1366  -- 1900
+,  5
+, 'Noya Weiss'
+, 'Same genre but different decades'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(126257  -- Germinal
+, 356663  -- Volver
+,  5
+, 'Noya Weiss'
+, 'Same genre but different decades'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(11360  -- All Night Long
+, 60016  -- Chattahoochee
+,  5
+, 'Noya Weiss'
+, 'Same genre but different decades'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(9131  -- Airport 1975
+, 377538  -- ile
+,  5
+, 'Noya Weiss'
+, 'Same genre but different decades'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(126991  -- Gharana
+, 60016  -- Chattahoochee
+,  5
+, 'Noya Weiss'
+, 'Same genre but different decades'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(122033  -- Furtivos
+, 3109  -- 8 Track
+,  5
+, 'Noya Weiss'
+, 'Same genre but different decades'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(30243  -- Barocco
+, 7382  -- Afdaling, De
+,  5
+, 'Noya Weiss'
+, 'Same genre but different decades'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(30662  -- Basil
+, 154436  -- I Love You
+,  5
+, 'Noya Weiss'
+, 'Same genre but different decades'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(11360  -- All Night Long
+, 4722  -- Abdullah
+,  5
+, 'Noya Weiss'
+, 'Same genre but different decades'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(60016  -- Chattahoochee
+, 90110  -- Don Juan
+,  5
+, 'Noya Weiss'
+, 'Same genre but different decades'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(126991  -- Gharana
+, 12744  -- Always
+,  5
+, 'Noya Weiss'
+, 'Same genre but different decades'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(9131  -- Airport 1975
+, 2755  -- 51 Bar
+,  5
+, 'Noya Weiss'
+, 'Same genre but different decades'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(12744  -- Always
+, 313141  -- Stanley & Iris
+,  5
+, 'Noya Weiss'
+, 'Same genre but different decades'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(79528  -- David and Lisa
+, 30243  -- Barocco
+,  5
+, 'Noya Weiss'
+, 'Same genre but different decades'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(151844  -- Hranjenik
+, 2755  -- 51 Bar
+,  5
+, 'Noya Weiss'
+, 'Same genre but different decades'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(9131  -- Airport 1975
+, 30243  -- Barocco
+,  5
+, 'Noya Weiss'
+, 'Same genre but different decades'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(1366  -- 1900
+, 60016  -- Chattahoochee
+,  5
+, 'Noya Weiss'
+, 'Same genre but different decades'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(2163  -- 3 Women
+, 2755  -- 51 Bar
+,  5
+, 'Noya Weiss'
+, 'Same genre but different decades'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(2163  -- 3 Women
+, 12744  -- Always
+,  5
+, 'Noya Weiss'
+, 'Same genre but different decades'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(126991  -- Gharana
+, 119502  -- Free of Eden
+,  5
+, 'Noya Weiss'
+, 'Same genre but different decades'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(2163  -- 3 Women
+, 30662  -- Basil
+,  5
+, 'Noya Weiss'
+, 'Same genre but different decades'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(12744  -- Always
+, 3109  -- 8 Track
+,  5
+, 'Noya Weiss'
+, 'Same genre but different decades'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(12744  -- Always
+, 7382  -- Afdaling, De
+,  5
+, 'Noya Weiss'
+, 'Same genre but different decades'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(356663  -- Volver
+, 313141  -- Stanley & Iris
+,  5
+, 'Noya Weiss'
+, 'Same genre but different decades'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(83103  -- Derbeder
+, 7382  -- Afdaling, De
+,  5
+, 'Noya Weiss'
+, 'Same genre but different decades'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(1366  -- 1900
+, 313141  -- Stanley & Iris
+,  5
+, 'Noya Weiss'
+, 'Same genre but different decades'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(126991  -- Gharana
+, 151844  -- Hranjenik
+,  5
+, 'Noya Weiss'
+, 'Same genre but different decades'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(151844  -- Hranjenik
+, 3109  -- 8 Track
+,  5
+, 'Noya Weiss'
+, 'Same genre but different decades'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(12744  -- Always
+, 32156  -- Beauty
+,  5
+, 'Noya Weiss'
+, 'Same genre but different decades'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(151844  -- Hranjenik
+, 119502  -- Free of Eden
+,  5
+, 'Noya Weiss'
+, 'Same genre but different decades'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(356663  -- Volver
+, 90110  -- Don Juan
+,  5
+, 'Noya Weiss'
+, 'Same genre but different decades'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(18689  -- Aoi yaju
+, 377538  -- ile
+,  5
+, 'Noya Weiss'
+, 'Same genre but different decades'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(155207  -- Ice
+, 90110  -- Don Juan
+,  5
+, 'Noya Weiss'
+, 'Same genre but different decades'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(2755  -- 51 Bar
+, 32156  -- Beauty
+,  5
+, 'Noya Weiss'
+, 'Same genre but different decades'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(356663  -- Volver
+, 30243  -- Barocco
+,  5
+, 'Noya Weiss'
+, 'Same genre but different decades'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(126257  -- Germinal
+, 30662  -- Basil
+,  5
+, 'Noya Weiss'
+, 'Same genre but different decades'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(151844  -- Hranjenik
+, 133506  -- Great Canadian Ghost Stories
+,  5
+, 'Noya Weiss'
+, 'Same genre but different decades'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(151844  -- Hranjenik
+, 313141  -- Stanley & Iris
+,  5
+, 'Noya Weiss'
+, 'Same genre but different decades'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(2163  -- 3 Women
+, 4722  -- Abdullah
+,  5
+, 'Noya Weiss'
+, 'Same genre but different decades'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(2163  -- 3 Women
+, 154436  -- I Love You
+,  5
+, 'Noya Weiss'
+, 'Same genre but different decades'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(126257  -- Germinal
+, 12744  -- Always
+,  5
+, 'Noya Weiss'
+, 'Same genre but different decades'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(126257  -- Germinal
+, 154436  -- I Love You
+,  5
+, 'Noya Weiss'
+, 'Same genre but different decades'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(11360  -- All Night Long
+, 32156  -- Beauty
+,  5
+, 'Noya Weiss'
+, 'Same genre but different decades'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(83103  -- Derbeder
+, 231548  -- Nico
+,  5
+, 'Noya Weiss'
+, 'Same genre but different decades'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(90110  -- Don Juan
+, 32156  -- Beauty
+,  5
+, 'Noya Weiss'
+, 'Same genre but different decades'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(11360  -- All Night Long
+, 3109  -- 8 Track
+,  5
+, 'Noya Weiss'
+, 'Same genre but different decades'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(126991  -- Gharana
+, 377538  -- ile
+,  5
+, 'Noya Weiss'
+, 'Same genre but different decades'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(2163  -- 3 Women
+, 356663  -- Volver
+,  5
+, 'Noya Weiss'
+, 'Same genre but different decades'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(356663  -- Volver
+, 231548  -- Nico
+,  5
+, 'Noya Weiss'
+, 'Same genre but different decades'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(12744  -- Always
+, 30662  -- Basil
+,  5
+, 'Noya Weiss'
+, 'Same genre but different decades'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(83103  -- Derbeder
+, 30243  -- Barocco
+,  5
+, 'Noya Weiss'
+, 'Same genre but different decades'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(79528  -- David and Lisa
+, 377538  -- ile
+,  5
+, 'Noya Weiss'
+, 'Same genre but different decades'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(9131  -- Airport 1975
+, 4722  -- Abdullah
+,  5
+, 'Noya Weiss'
+, 'Same genre but different decades'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(126257  -- Germinal
+, 2163  -- 3 Women
+,  5
+, 'Noya Weiss'
+, 'Same genre but different decades'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(83103  -- Derbeder
+, 32156  -- Beauty
+,  5
+, 'Noya Weiss'
+, 'Same genre but different decades'
+, NULL
+);
+
+INSERT INTO imdb_ijs.movies_recommendations VALUES 
+(9131  -- Airport 1975
+, 60016  -- Chattahoochee
+,  5
+, 'Noya Weiss'
+, 'Same genre but different decades'
+, NULL
+);
+
+
+
